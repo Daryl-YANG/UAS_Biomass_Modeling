@@ -1,0 +1,1 @@
+This package is to support Yang et al., "Ecological Insights from Transferable Plant Biomass Mapping across the Arctic using High-resolution LiDAR and SfM Data" under review in Environmental Research Ecology
