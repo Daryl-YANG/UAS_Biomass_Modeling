@@ -30,7 +30,8 @@ invisible(lapply(list.of.packages, library, character.only = TRUE))
 #*****************************************************************************************#
 
 #************************************ user parameters ************************************#
-out.dir <- "/Volumes/data4/Projects/DSF_LDRD/Data/UAS/2022_Autel/KFC_20220712_Flight1/L2"
+### define output directory
+out.dir <- ""
 ### Create output folders
 if (! file.exists(out.dir)) dir.create(out.dir,recursive=TRUE)
 ### create a temporary folder
@@ -55,7 +56,8 @@ reso = 0.05
 
 #*************************************** load data ***************************************#
 ### load all laz files as catalog
-data.dir <- '/Volumes/data4/Projects/DSF_LDRD/Data/UAS/2022_Autel/KFC_20220712_Flight1/L1'
+# define input las/laz file directory
+data.dir <- ''
 ctg <- readLAScatalog(data.dir)
 
 filename <- basename(ctg$filename)
@@ -122,11 +124,11 @@ fill.na <- function(x, i=5) { if (is.na(x)[i]) { return(mean(x, na.rm = TRUE)) }
 w <- matrix(1, 5, 5)
 chm <- terra::focal(chm, w, fun = fill.na)
 
-dtm.filename <- gsub('PointClouds.laz', 'DTM.tif', filename)
+dtm.filename <- gsub('.laz', '_DTM.tif', filename)
 dtm.filename <- paste0(out.dir, '/', dtm.filename)
 writeRaster(dtm, dtm.filename, overwrite = TRUE)
 
-chm.filename <- gsub('PointClouds.laz', 'CHM.tif', filename)
+chm.filename <- gsub('.laz', '_CHM.tif', filename)
 chm.filename <- paste0(out.dir, '/', chm.filename)
 writeRaster(chm, chm.filename, overwrite = TRUE)
 
