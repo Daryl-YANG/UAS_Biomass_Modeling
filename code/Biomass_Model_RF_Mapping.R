@@ -52,7 +52,7 @@ data.org <- na.omit(data.org)
 
 # load in canopy height model map
 chm.path <- "***"
-chm.dir <- list.files(chm.path, pattern = 'NGEEArctic_2019_DJI_Kougarok_Mile80_Flight1_CHM',
+chm.dir <- list.files(chm.path, pattern = '***',
                       full.names = TRUE, recursive = TRUE)
 chm.rst <- terra::rast(chm.dir)/100
 #chm.rst <- chm.rst[[3]]
