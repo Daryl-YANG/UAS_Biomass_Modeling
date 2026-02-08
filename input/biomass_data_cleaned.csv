@@ -1,0 +1,433 @@
+PlotID,Contributor_Assigned_PlotID,Email,Investigators,SiteName,Country,SiteLatitude,SiteLongitude,EPSG,ClimateZone,PlantFuntionalType,PeakBiomass,PlotSize,ABG,ABG_kg_m2,HAG_plotmin,HAG_plotmax,HAG_plotmean,HAG_plotmedian,HAG_plot90percent
+AS-1,AS-1,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.165,-164.823,32603,Shrub Tundra,Shrub,TRUE,25,158.2024807,6.328099229,0.016029358,3.40657959,2.42847399,2.030883789,3.32233429
+AS-2,AS-2,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.159,-164.822,32603,Shrub Tundra,Shrub,TRUE,25,111.7868436,4.471473743,0.250061035,2.348312378,1.852954647,1.89726257,2.116859436
+TT-WBT-1,TT-WBT-1,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.167,-164.816,32603,Shrub Tundra,Shrub,TRUE,6.25,11.97771262,1.916434019,0,0.310527802,0.108597226,0.098918915,0.180724335
+TT-WBT-3,TT-WBT-3,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.162,-164.815,32603,Shrub Tundra,Shrub,TRUE,6.25,5.610289582,0.897646333,0.009399414,0.18321991,0.071206411,0.061687469,0.132975769
+NAMC-1,NAMC-1,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.165,-164.825,32603,Shrub Tundra,Shrub,TRUE,1,0.633383,0.633383,0,0.171669006,0.05796814,0.049789429,0.124598694
+NAMC-3,NAMC-3,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.162,-164.831,32603,Shrub Tundra,Shrub,TRUE,1,0.547055,0.547055,0,0.129577637,0.057439168,0.045845032,0.122249603
+DSLT-1,DSLT-1,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.164,-164.826,32603,Shrub Tundra,Shrub,TRUE,1,0.833954,0.833954,0,0.09677887,0.043706258,0.040885925,0.072810364
+DSLT-3,DSLT-3,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.161,-164.827,32603,Shrub Tundra,Shrub,TRUE,1,0.578156,0.578156,0.029090881,0.210800171,0.095328013,0.090202332,0.154639435
+TT-1,TT-1,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.161,-164.823,32603,Shrub Tundra,Graminoid,TRUE,1,0.519922859,0.519922859,0,0.089614868,0.058072408,0.072486877,0.088993073
+TT-2,TT-2,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.162,-164.809,32603,Shrub Tundra,Graminoid,TRUE,1,0.579504,0.579504,0.023132324,0.178962708,0.093309164,0.088573456,0.153202057
+WBT-1,WBT-1,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.164,-164.831,32603,Shrub Tundra,Shrub,TRUE,6.25,8.531597182,1.365055549,0,0.333740234,0.145278083,0.078445435,0.318017578
+WBT-2,WBT-2,salmonvg@ornl.gov,Verity Salmon,Kougarok (NGEEArctic),Alaska (US),65.161,-164.83,32603,Shrub Tundra,Shrub,TRUE,6.25,5.713662398,0.914185984,0.053611755,0.17237854,0.109636943,0.107509613,0.154647827
+P01,SP01,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.06914,0.27656,0.04,0.27,0.1477,0.14,0.21
+P02,SP02,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.06374,0.25496,0.01,0.21,0.1083,0.11,0.15
+P03,SP03,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.04487,0.17948,0.03,0.92,0.1229,0.11,0.18
+P04,SP04,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.04284,0.17136,0,0.19,0.1224,0.12,0.15
+P05,SP05,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.03732,0.14928,0,0.18,0.0779,0.08,0.11
+P06,SP06,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.04974,0.19896,0,0.22,0.0666,0.06,0.11
+P07,SP07,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.11889,0.47556,0.2,0.52,0.4043,0.41,0.47
+P08,SP08,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.10503,0.42012,0,0.53,0.2689,0.27,0.39
+P09,SP09,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.16592,0.66368,0.04,0.6,0.4011,0.4,0.51
+P10,SP10,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.19313,0.77252,0.24,0.6,0.4434,0.43,0.56
+P11,SP11,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.21815,0.8726,0.24,0.58,0.4303,0.43,0.5
+P12,SP12,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.21416,0.85664,0.38,0.61,0.5121,0.51,0.57
+P13,SP13,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.47307,1.89228,0.49,0.77,0.6315,0.63,0.7
+P14,SP14,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.36376,1.45504,0.52,0.87,0.6841,0.687692308,0.74
+P15,SP15,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.36455,1.4582,0.5,0.81,0.6512,0.65,0.73
+P16,SP16,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.60784,2.43136,0.66,0.88,0.8061,0.81,0.85
+P17,SP17,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.58758,2.35032,0.69,0.92,0.8249,0.82,0.88
+P18,SP18,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.58666,2.34664,0.66,0.88,0.7609,0.76,0.81
+P19,SP19,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.06484,0.25936,0.25,0.96,0.3376,0.33,0.38
+P20,SP20,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.10153,0.40612,0.21,0.41,0.3215,0.32,0.37
+P21,SP21,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.08113,0.32452,0.15,0.41,0.2568,0.26,0.31
+P22,SP22,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.37039,1.48156,0.35,0.47,0.412,0.41,0.45
+P23,SP23,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.2668,1.0672,0.37,0.5,0.4368,0.44,0.47
+P24,SP24,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.20345,0.8138,0.41,0.59,0.4951,0.5,0.538664692
+P25,SP25,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.20512,0.82048,0.37,0.49,0.4144,0.41,0.43
+P26,SP26,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.24171,0.96684,0.39,0.5,0.4471,0.45,0.47
+P27,SP27,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.19802,0.79208,0.33,0.45,0.3982,0.4,0.43
+P28,SP28,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.40089,1.60356,0.54,0.7,0.6104,0.6,0.65
+P29,SP29,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.49041,1.96164,0.52,0.63,0.5771,0.58,0.61
+P30,SP30,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.55869,2.23476,0.6,0.69,0.6357,0.63,0.66
+P31,SP31,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.26241,1.04964,0.27,0.85,0.4251,0.41,0.52
+P32,SP32,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.16019,0.64076,0.27,0.6,0.4631,0.47,0.52
+P33,SP33,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.14013,0.56052,0.15,0.7,0.3873,0.38,0.5
+P34,SP34,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.44712,1.78848,0,0.48,0.2852,0.29,0.32
+P35,SP35,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.30524,1.22096,0.07,0.34,0.2612,0.27,0.3
+P36,SP36,andrewmcunliffe@gmail.com,"Andrew Cunliffe, Isla Myers-Smith",Qikiqtaruk (Orca),Canada,69.572,-138.895,32607,Tundra,Shrub,TRUE,0.25,0.30738,1.22952,0.08,0.46,0.2903,0.29,0.33
+P07,GO1,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,2.64432,3.256952827,0.06,0.91,0.7094,0.74,0.8
+P08,GO2,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,4.20452,2.531013725,0.06,1.31,0.8487,0.92,1.089565217
+P09,GO3,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,3.00755,2.881623072,0.18,0.93,0.5342,0.48,0.8
+P10,GO4,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,0.4981,0.954031795,0,0.26,0.0746,0.07,0.16
+P11,GO5,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,0.5807,0.956672158,0.02,0.34,0.1836,0.19,0.28
+P17,HE1,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,0.32633,0.81500999,0.04,0.37,0.2223,0.24,0.35
+P18,HE2,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,0.32219,0.821913265,0.03,0.17,0.1042,0.11,0.15
+P19,HE3,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,1.77081,1.225219678,0,0.6,0.335,0.34,0.48
+P20,HE4,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,1.50244,1.459955301,0.09,0.64,0.4865,0.47,0.59
+P21,HE5,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,0.75805,1.044289847,0,0.36,0.2141,0.22,0.26
+P22,HE6,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Shrub,TRUE,0.25,0.06334,0.260551214,0,0.07,0.0142,0.01,0.04
+P01,P01,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,2.25,2.35764,1.051063261,0,1.58,0.3449,0.14,0.97
+P02,P02,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.25,0.25028,1.130953457,0.01,0.47,0.2951,0.35,0.43
+P03,P03,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1.21,2.0495,1.741439375,0,1.22,0.4567,0.26,1.02
+P04,P04,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1.96,2.73443,1.47815017,0,1.49,0.5903,0.47,1.23
+P05,P05,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1.69,1.98018,1.223844252,0,1.3,0.3603,0.15,0.9
+P06,P06,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,2.25,4.51172,2.077793129,0,1.81,0.8359,1.09,1.58
+P07,P07,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.49,0.30625,0.668522157,0.03,0.78,0.3106,0.2,0.67
+P08,P08,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,2.56,3.66854,1.502453209,0,1.43,0.4194,0.18,1.08
+P09,P09,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.64,0.48508,0.796780552,0.04,0.68,0.2743,0.15,0.6
+P10,P10,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.64,0.47684,0.773965265,0.01,0.61,0.245,0.18,0.48
+P11,P11,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,3.24,6.66966,2.074157233,0,1.79,0.8594,1.19,1.55
+P12,P12,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1.21,1.61227,1.383803965,0,1.18,0.3989,0.39,0.79
+P13,P13,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.64,0.37159,0.604113152,0.02,0.75,0.2718,0.19,0.55
+P14,P14,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1.21,0.85754,0.724947164,0,0.9,0.2561,0.16,0.59
+P15,P15,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.64,0.60914,0.943379278,0,0.64,0.2902,0.19,0.57
+P16,P16,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.25,0.1934,0.810561609,0.04,0.51,0.1753,0.15,0.34
+P17,P17,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1,0.92898,0.973263489,0.01,0.85,0.28,0.21,0.58
+P18,P18,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.81,0.78584,0.997765363,0.02,0.63,0.2855,0.24,0.48
+P19,P19,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1.21,0.76767,0.690226578,0.03,0.92,0.2945,0.24,0.59
+P20,P20,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.81,0.35202,0.450326212,0.05,0.54,0.2343,0.21,0.38
+P21,P21,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1.44,0.96864,0.736440356,0.05,0.85,0.3338,0.28,0.63
+P22,P22,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,1,0.91063,0.963221917,0.03,1.04,0.3515,0.31,0.61
+P23,P23,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.25,0.22172,0.99426009,0.15,0.75,0.3987,0.4,0.63
+P24,P24,jprosek@fzp.czu.cz,Ji_ Pro_ek; Kate_ina Gdulov; Petra _mov,Doupovsk hory (Rado_ov),Czech Republic (CZE),50.161,13.126,32633,Warm summer continental,Shrub,TRUE,0.36,0.22155,0.643853531,0,0.58,0.2567,0.26,0.43
+P06,ICC6,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.1373,0.5492,0.12,0.19,0.1597,0.16,0.17
+P08,ICC8,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.09329,0.37316,0.15,0.43,0.3498,0.36,0.39
+P10,ICC10,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.07908,0.31632,0.12,0.56,0.3717,0.37,0.5
+P12,ICC12,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.15172,0.60688,0.25,0.31,0.2781,0.28,0.3
+P13,OC1,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.01205,0.0482,0,0.02,0.0016,0,0.01
+P14,OC2,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.0185,0.074,0,0,0,0,0
+P15,OC3,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.02161,0.08644,0,0,0,0,0
+P16,OC4,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Graminoid,TRUE,0.25,0.01187,0.04748,0,0.01,0,0,0
+P01,HP01,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.285,0.968728756,0,0.52,0.2345,0.24,0.4
+P02,HP02,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.213,0.84557364,0.05,0.36,0.2045,0.23,0.3
+P03,HP03,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.155,0.588905775,0.02,0.31,0.1467,0.15,0.22
+P04,HP04,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.109,0.444535073,0.01,0.26,0.0927,0.07,0.17
+P05,HP05,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.289,1.029568935,0.06,0.43,0.2957,0.31,0.39
+P06,HP06,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.176,0.720130933,0.03,0.35,0.217,0.23,0.3
+P07,HP07,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.325,1.181388586,0.04,0.37,0.2197,0.23,0.3
+P08,HP08,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.272,1.00258017,0.03,0.43,0.2346,0.23,0.37
+P09,HP09,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.213,0.77993409,0.04,0.35,0.2217,0.24,0.31
+P10,HP10,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.2648,0.96151053,0.06,0.47,0.2208,0.2,0.35
+P11,HP11,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.16908,0.565863454,0.04,0.27,0.1178,0.11,0.19
+P12,HP12,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #1, Craig Mountain Wildlife Management Area, Idaho",USA,46.121,-116.942,26911,Dfb,Graminoid,TRUE,0.25,0.23137,0.740384,0.02,0.5,0.1994,0.17,0.39
+P01,BC21,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.13697,0.509182156,0.02,0.3,0.1653,0.18,0.242
+P02,BC22,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.27975,0.987469114,0.07,0.42,0.247,0.25,0.35
+P03,BC23,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.06815,0.247728099,0.03,0.33,0.1755,0.17,0.26
+P04,BC24,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.24614,0.986928629,0.06,0.38,0.1981,0.2,0.29
+P05,BC25,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.15725,0.5965478,0.02,0.33,0.1724,0.17,0.29
+P06,BC26,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.13383,0.485067053,0.04,0.4,0.219,0.22,0.35
+P07,BC27,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.18561,0.671769815,0.07,0.36,0.2377,0.24,0.31
+P08,BC28,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.18732,0.703153153,0.06,0.38,0.2011,0.2,0.29
+P09,BC29,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.16297,0.585380747,0,0.25,0.1505,0.15,0.22
+P10,BC30,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.2147,0.83605919,0.12,0.45,0.2961,0.3,0.37
+P11,BC31,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.19218,0.717625093,0.04,0.35,0.1967,0.2,0.29
+P12,BC32,jkarl@uidaho.edu,Jason W. Karl,"Billy Creek Site #2, Craig Mountain Wildlife Management Area, Idaho",USA,46.128,-116.941,26911,Dfb,Graminoid,TRUE,0.25,0.20071,0.74254532,0.1,0.41,0.2578,0.26,0.31
+P12,GR1,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01267,0.053869048,0,0.05,0.007,0,0.03
+P13,GR2,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Graminoid,TRUE,0.25,0.0342,0.127469251,0.04,0.1,0.0585,0.06,0.08
+P14,GR3,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Graminoid,TRUE,0.25,0.0293,0.107208196,0,0.02,5e-04,0,0
+P15,GR4,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Graminoid,TRUE,0.25,0.04208,0.146314326,0,0.05,0.0219,0.02,0.03
+P16,GR5,f.visser@worc.ac.uk,Fleur Visser,"Hartlebury Common, Worcestershire",United Kingdom,52.333,-2.259,32630,Temperate oceanic climate,Graminoid,TRUE,0.25,0.03098,0.116597667,0,0.12,0.0194,0.01,0.06
+P01,P01,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.03695,0.1478,0.04,0.2,0.1206,0.12,0.17
+P02,P02,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01987,0.07948,0.02,0.13,0.0656,0.06,0.09
+P03,P03,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01552,0.06208,0,0.07,0.0269,0.03,0.04
+P04,P04,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.02609,0.10436,0,0.12,0.035,0.03,0.09
+P05,P05,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.02003,0.08012,0.01,0.13,0.0601,0.06,0.08
+P06,P06,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01273,0.05092,0.01,0.11,0.0534,0.05,0.08
+P07,P07,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01376,0.05504,0,0.06,0.0224,0.02,0.04
+P08,P08,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01627,0.06508,0,0.08,0.035,0.03,0.05
+P09,P09,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01612,0.06448,0.04,0.1,0.0634,0.06,0.08
+P10,P10,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01918,0.07672,0,0.16,0.0484,0.04,0.09
+P11,P11,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.02008,0.08032,0,0.11,0.0228,0.01,0.06
+P12,P12,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.02169,0.08676,0,0.11,0.0298,0.03,0.05
+P13,P13,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.02037,0.08148,0.02,0.13,0.0605,0.06,0.09
+P14,P14,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01876,0.07504,0,0.09,0.0256,0.02,0.05
+P15,P15,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.01397,0.05588,0,0.1,0.02,0.01,0.05
+P16,P16,thastor@uni-kassel.de,"Thomas Astor, Michael Wachendorf, Damian Schulze-Brninghoff",Biosphere reserve Rhn,Germany,50.479,9.971,25832,Temperate oceanic climate,Graminoid,TRUE,0.25,0.02278,0.09112,0,0.08,0.031,0.03,0.06
+P01,P01,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,1,0.03173,0.034129289,0,0.12,0.056,0.05,0.08
+P02,P02,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.64,0.05034,0.085249788,0.02,0.17,0.0901,0.09,0.13
+P03,P03,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.36,0.02632,0.076712329,0.03,0.15,0.0818,0.08,0.11
+P04,P04,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.25,0.02417,0.101087411,0.04,0.19,0.1007,0.1,0.14
+P05,P05,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,1,0.08839,0.093862164,0.03,0.24,0.1243,0.12,0.17
+P06,P06,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.64,0.04491,0.076183206,0.02,0.18,0.0889,0.09,0.12
+P07,P07,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.36,0.04373,0.14124677,0.06,0.22,0.1461,0.15,0.18
+P08,P08,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.25,0.02499,0.117544685,0.04,0.2,0.1127,0.11,0.15
+P09,P09,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,1,0.06369,0.072921914,0.05,0.29,0.1925,0.2,0.25
+P10,P10,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.64,0.11285,0.201553849,0.05,0.33,0.2121,0.22,0.26
+P11,P11,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.36,0.04247,0.129798289,0.07,0.27,0.1499,0.15,0.19
+P12,P12,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.25,0.02348,0.10643699,0.06,0.28,0.1318,0.13,0.17
+P13,P13,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,1,0.09241,0.097715978,0.01,0.25,0.1048,0.1,0.16
+P14,P14,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.64,0.04734,0.085605787,0.06,0.28,0.1463,0.14,0.19
+P15,P15,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.36,0.03893,0.116977164,0.05,0.22,0.1339,0.13,0.18
+P16,P16,savargas@utep.edu,Sergio A.Vargas Z (S.A.Vargas Z); Craig Tweedie (C.E. Tweedie),"Utqiagvik (formerly Barrow), Alaska",USA,71.319,-156.61,26904,Tundra,Graminoid,TRUE,0.25,0.04495,0.220993117,0.07,0.26,0.1744,0.18,0.22
+P01,ICW1,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.20886,0.83544,0.03,1.04,0.3002,0.22,0.66
+P02,ICW2,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.14723,0.58892,0.08,0.28,0.1231,0.12,0.15
+P03,ICW3,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.10988,0.43952,0.11,0.81,0.3068,0.29,0.41
+P04,ICG4,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.168492,0.673968,0.15,0.4,0.2477,0.24,0.33
+P05,ICC5,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.14914,0.59656,0.17,0.31,0.2214,0.22,0.25
+P07,ICC7,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.15764,0.63056,0.12,0.3,0.1974,0.19,0.25
+P09,ICW9,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.1706,0.6824,0.19,0.36,0.2417,0.23,0.29
+P11,ICC11,f.visser@worc.ac.uk,Fleur Visser,"Lakeside Campus, University of Worcester",United Kingdom,52.251,-2.254,32630,Cfb,Forb,TRUE,0.25,0.15573,0.62292,0.13,0.33,0.2101,0.2,0.28
+P01,P01,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.36,0.038,0.100956429,0,0.21,0.0584,0.04,0.15
+P02,P02,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.25,0.0426,0.181740614,0,0.02,2e-04,0,0
+P03,P03,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.25,0.0036,0.016475973,0,0,0,0,0
+P04,P04,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.25,0.034,0.168400198,0,0.06,0.0031,0,0
+P06,P06,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.25,0.0074,0.045792079,0,0,0,0,0
+P07,P07,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.49,0.1,0.190512479,0.26,0.78,0.494,0.47,0.68
+P09,P09,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.36,0.058,0.179733499,0.47,0.76,0.5579,0.52,0.7
+P10,P10,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.49,0.0627,0.113793103,0,0.36,0.1755,0.17,0.32
+P11,P11,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.25,0.0036,0.018072289,0,0.12,0.0562,0.06,0.08
+P12,P12,h.wirnsberger@hotmail.com,"Hannes Wirnsberger, Andrew Cunliffe, Stefan Haselberger, Sabine Kraushaar",Kaunertal Site 2,Austria,46.864,10.733,32632,Alpine tundra,Forb,TRUE,0.25,0.0252,0.119318182,0,0,0,0,0
+FRYINGPAN,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38349402,-145.4611503,32603,Tundra,Shrub,TRUE,0.25,0.44768,0.44768,0,0.275000006,0.08716235,0.081,0.150000006
+FRYINGPAN,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38364299,-145.4613844,32603,Tundra,Shrub,TRUE,0.25,0.21936,0.21936,0,0.127000004,0.044651879,0.044,0.079999998
+FRYINGPAN,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38379278,-145.4616159,32603,Tundra,Shrub,TRUE,0.25,0.31652,0.31652,0,0.114,0.03063691,0.028999999,0.054000001
+FRYINGPAN,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38394246,-145.4618476,32603,Tundra,Shrub,TRUE,0.25,0.30924,0.30924,0,0.158999994,0.040172988,0.032000002,0.094999999
+FRYINGPAN,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38409279,-145.4620816,32603,Tundra,Shrub,TRUE,0.25,0.43548,0.43548,0,0.298999995,0.096899049,0.078000002,0.207000002
+GULCH,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.00348319,-144.1532074,32603,Tundra,Shrub,TRUE,0.25,0.21376,0.21376,0,0.200000003,0.102371011,0.101999998,0.143000007
+GULCH,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.00359006,-144.1528689,32603,Tundra,Shrub,TRUE,0.25,0.2176,0.2176,0,0.248999998,0.056977865,0.050000001,0.115000002
+GULCH,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.00369545,-144.152526,32603,Tundra,Shrub,TRUE,0.25,0.2816,0.2816,0,0.275000006,0.129251736,0.118000001,0.224000007
+GULCH,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.00380164,-144.1521869,32603,Tundra,Shrub,TRUE,0.25,0.90812,0.90812,0.002,0.591000021,0.375267361,0.395000011,0.504999995
+GULCH,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.00390718,-144.1518455,32603,Tundra,Shrub,TRUE,0.25,0.3602,0.3602,0,0.193187341,0.074507736,0.071999997,0.119999997
+OBRIAN,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.52533736,-147.2051895,32603,Tundra,Shrub,TRUE,0.25,0.3572,0.3572,0,0.061000001,0.017375947,0.013,0.041000001
+OBRIAN,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.52524251,-147.2048242,32603,Tundra,Shrub,TRUE,0.25,0.368876,0.368876,0,0.059,0.011181818,0.008,0.025
+OBRIAN,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.52514858,-147.2044578,32603,Tundra,Shrub,TRUE,0.25,0.187968,0.187968,0,0.092,0.018485109,0.01,0.050999999
+OBRIAN,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.52506508,-147.204078,32603,Tundra,Shrub,TRUE,0.25,0.373084,0.373084,0,0.177000001,0.050673239,0.045000002,0.093000002
+OBRIAN,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.52498533,-147.2036931,32603,Tundra,Shrub,TRUE,0.25,0.234956,0.234956,0,0.082000002,0.020541422,0.017999999,0.040715557
+PEDRO,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.03399464,-147.5056481,32603,Tundra,Shrub,TRUE,0.25,0.481596,0.481596,0,0.541999996,0.169658777,0.170000002,0.263999999
+PEDRO,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.03382341,-147.5057719,32603,Tundra,Shrub,TRUE,0.25,0.65268,0.65268,0.082000002,1.106999993,0.699181154,0.779999971,0.937199986
+PEDRO,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.03365677,-147.5059298,32603,Tundra,Shrub,TRUE,0.25,0.623916,0.623916,0,0.823000014,0.310331025,0.275000006,0.595000029
+PEDRO,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.03349075,-147.5060819,32603,Tundra,Shrub,TRUE,0.25,1.513512,1.513512,0.057999998,1.697000027,1.130654268,1.177999973,1.350999951
+PEDRO,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.03335261,-147.5063433,32603,Tundra,Shrub,TRUE,0.25,1.066428,1.066428,0,0.633000016,0.345461672,0.398999989,0.550000012
+PINNELL,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.41190766,-145.9781842,32603,Tundra,Shrub,TRUE,0.25,0.522904,0.522904,0,0.048,0.018207613,0.017999999,0.030999999
+PINNELL,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.41187242,-145.9786039,32603,Tundra,Shrub,TRUE,0.25,0.391032,0.391032,0,0.173999995,0.018272491,0.008,0.045000002
+PINNELL,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.41183541,-145.9790202,32603,Tundra,Shrub,TRUE,0.25,0.247736,0.247736,0,0.131999999,0.028442042,0.024,0.067000002
+PINNELL,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.41179876,-145.9794368,32603,Tundra,Shrub,TRUE,0.25,0.5916,0.5916,0,0.105999999,0.042237815,0.039000001,0.078000002
+PINNELL,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.41176191,-145.979853,32603,Tundra,Shrub,TRUE,0.25,0.307872,0.307872,0,0.126000002,0.028556142,0.025,0.050000001
+PORCUPINECREEK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.62612045,-144.4572147,32603,Tundra,Shrub,TRUE,0.25,0.287572,0.287572,0,0.075999998,0.042211238,0.043000001,0.059999999
+PORCUPINECREEK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.62594948,-144.4573415,32603,Tundra,Shrub,TRUE,0.25,0.7178,0.7178,0,0.216999993,0.11950586,0.108000003,0.185000002
+PORCUPINECREEK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.62577753,-144.4574618,32603,Tundra,Shrub,TRUE,0.25,0.192688,0.192688,0,0.128000006,0.04575,0.046,0.083999999
+PORCUPINECREEK,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.62560502,-144.4575778,32603,Tundra,Shrub,TRUE,0.25,0.162896,0.162896,0,0.138999999,0.063094693,0.059,0.108999997
+PORCUPINECREEK,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.62543274,-144.4576928,32603,Tundra,Shrub,TRUE,0.25,0.156756,0.156756,0,0.118000001,0.05032,0.050000001,0.078000002
+PRINDLE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.3602773,-146.5256671,32603,Tundra,Shrub,TRUE,0.25,0.4276,0.4276,0,0.057,0.010109626,0.007,0.023
+PRINDLE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.36043887,-146.5254807,32603,Tundra,Shrub,TRUE,0.25,0.6814,0.6814,0,0.101000004,0.020708478,0.02,0.043000001
+PRINDLE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.36060079,-146.5252948,32603,Tundra,Shrub,TRUE,0.25,0.37672,0.37672,0,0.071999997,0.024429956,0.022,0.048999999
+PRINDLE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.36075915,-146.5250933,32603,Tundra,Shrub,TRUE,0.25,0.39804,0.39804,0,0.111000001,0.01979522,0.017000001,0.039999999
+PRINDLE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.36091889,-146.5248991,32603,Tundra,Shrub,TRUE,0.25,0.32068,0.32068,0,0.104999997,0.048584775,0.050000001,0.078000002
+QUARTZ02,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.3732084,-146.6385101,32603,Tundra,Shrub,TRUE,0.25,0.612,0.612,0,0.055,0.026721111,0.030999999,0.045000002
+QUARTZ02,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.37302968,-146.6384816,32603,Tundra,Shrub,TRUE,0.25,0.81404,0.81404,0,0.098999999,0.034171111,0.033,0.064000003
+QUARTZ02,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.37285136,-146.6384463,32603,Tundra,Shrub,TRUE,0.25,0.69716,0.69716,0,0.052000001,0.023039542,0.024,0.039999999
+QUARTZ02,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.37267271,-146.6384115,32603,Tundra,Shrub,TRUE,0.25,0.70736,0.70736,0,0.082000002,0.02933,0.027000001,0.057999998
+QUARTZ02,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.37249444,-146.6383873,32603,Tundra,Shrub,TRUE,0.25,0.23308,0.23308,0,0.048999999,0.013255172,0.011,0.030999999
+SOUTHSTONEBOY,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.67406892,-144.2739282,32603,Tundra,Shrub,TRUE,0.25,0.375576,0.375576,0,0.460999995,0.066016517,0.044,0.125
+SOUTHSTONEBOY,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.67414955,-144.2742984,32603,Tundra,Shrub,TRUE,0.25,0.205276,0.205276,0,0.090000004,0.039943673,0.037999999,0.07
+SOUTHSTONEBOY,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.67423012,-144.2746712,32603,Tundra,Shrub,TRUE,0.25,0.007484,0.007484,0,0.012,0.000932798,0.001,0.002
+SOUTHSTONEBOY,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.67431048,-144.2750408,32603,Tundra,Shrub,TRUE,0.25,0.315792,0.315792,0,0.208000004,0.047909524,0.032000002,0.114
+SOUTHSTONEBOY,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.67438684,-144.275419,32603,Tundra,Shrub,TRUE,0.25,0.152916,0.152916,0,0.165000007,0.056171296,0.052000001,0.102499999
+STONE01,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69257882,-144.2020176,32603,Tundra,Shrub,TRUE,0.25,0.37976,0.37976,0,0.082999997,0.030258435,0.028999999,0.056000002
+STONE01,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69248324,-144.201664,32603,Tundra,Shrub,TRUE,0.25,0.30376,0.30376,0,0.138999999,0.036595661,0.035,0.063000001
+STONE01,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69238582,-144.2013147,32603,Tundra,Shrub,TRUE,0.25,0.13404,0.13404,0,0.094999999,0.029312952,0.028000001,0.057999998
+STONE01,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69229038,-144.2009622,32603,Tundra,Shrub,TRUE,0.25,0.1446,0.1446,0,0.103,0.035745614,0.034000002,0.064000003
+STONE01,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69219577,-144.2006092,32603,Tundra,Shrub,TRUE,0.25,0.23628,0.23628,0,0.140000001,0.026899366,0.022,0.051028467
+STONE02,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69269836,-144.2074798,32603,Tundra,Shrub,TRUE,0.25,0.21168,0.21168,0,0.209999993,0.048972269,0.044,0.097999997
+STONE02,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69255187,-144.2072395,32603,Tundra,Shrub,TRUE,0.25,0.31076,0.31076,0,0.307000011,0.076131429,0.068999998,0.135000005
+STONE02,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69240529,-144.2069983,32603,Tundra,Shrub,TRUE,0.25,0.0898,0.0898,0,0.105999999,0.022210612,0.017999999,0.0506
+STONE02,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69225819,-144.2067597,32603,Tundra,Shrub,TRUE,0.25,0.27804,0.27804,0,0.159999996,0.041858776,0.043000001,0.071999997
+STONE02,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.69211159,-144.2065186,32603,Tundra,Shrub,TRUE,0.25,0.18268,0.18268,0,0.192000002,0.045060408,0.041999999,0.089600003
+TWELVEMILE,0m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38242461,-145.9891303,32603,Tundra,Shrub,TRUE,0.25,1.09452,1.09452,0,0.048,0.012723666,0.01,0.026000001
+TWELVEMILE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38234484,-145.9892253,32603,Tundra,Shrub,TRUE,0.25,0.77732,0.77732,0,0.172000006,0.039204152,0.028000001,0.107500002
+TWELVEMILE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38218407,-145.9894155,32603,Tundra,Shrub,TRUE,0.25,1.24608,1.24608,0,0.472000003,0.146604224,0.119000003,0.30399999
+TWELVEMILE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38202157,-145.9895971,32603,Tundra,Shrub,TRUE,0.25,0.40372,0.40372,0,0.135000005,0.028896235,0.025,0.056000002
+TWELVEMILE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.38169773,-145.9899627,32603,Tundra,Shrub,TRUE,0.25,0.59348,0.59348,0,0.097999997,0.030877835,0.030999999,0.055
+UPPERPALDO,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.73377357,-144.068526,32603,Tundra,Shrub,TRUE,0.25,0.05792,0.05792,0,0.108000003,0.0091696,0.001,0.039999999
+UPPERPALDO,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.73377018,-144.0689442,32603,Tundra,Shrub,TRUE,0.25,0.21544,0.21544,0,0.045000002,0.01178738,0.01,0.027000001
+UPPERPALDO,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.73376605,-144.0693615,32603,Tundra,Shrub,TRUE,0.25,0.43948,0.43948,0,0.231000006,0.090119048,0.083999999,0.153499998
+UPPERPALDO,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.73376676,-144.069779,32603,Tundra,Shrub,TRUE,0.25,0.70676,0.70676,0,0.291999996,0.172085799,0.187999994,0.246000007
+UPPERPALDO,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.73376712,-144.0701962,32603,Tundra,Shrub,TRUE,0.25,0.14032,0.14032,0,0.107000001,0.036094675,0.032000002,0.078000002
+WHEATEAR,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.56086873,-147.1940606,32603,Tundra,Shrub,TRUE,0.25,0.246988,0.246988,0,0.109999999,0.019944444,0.017999999,0.037999999
+WHEATEAR,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.56090449,-147.1944849,32603,Tundra,Shrub,TRUE,0.25,0.195328,0.195328,0,0.061000001,0.015332937,0.009,0.039000001
+WHEATEAR,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.56093972,-147.1949091,32603,Tundra,Shrub,TRUE,0.25,0.044124,0.044124,0,0.071999997,0.007626667,0.001,0.035
+WHEATEAR,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.56097768,-147.1953307,32603,Tundra,Shrub,TRUE,0.25,0.081448,0.081448,0,0.136000007,0.041803448,0.039999999,0.072099997
+WHEATEAR,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.5610085,-147.1957546,32603,Tundra,Shrub,TRUE,0.25,0.01038,0.01038,0,0.023,0.001113301,0,0.003
+WICKERSHAM,60m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.18953417,-148.0638859,32603,Tundra,Shrub,TRUE,0.25,0.3208,0.3208,0,0.172999993,0.08530162,0.079999998,0.145999998
+WICKERSHAM,89.5m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.18933259,-148.064308,32603,Tundra,Shrub,TRUE,0.25,0.22952,0.22952,0,0.071999997,0.012414859,0.01,0.028000001
+AMSUMMIT,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.59845739,-141.2494435,32603,Tundra,Shrub,TRUE,0.25,0.10096,0.10096,0,0.333999991,0.092042118,0.072999999,0.217499994
+AMSUMMIT,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.59847458,-141.2490294,32603,Tundra,Shrub,TRUE,0.25,0.19108,0.19108,0,0.282000005,0.067776786,0.0495,0.165000007
+AMSUMMIT,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.59849822,-141.2486175,32603,Tundra,Shrub,TRUE,0.25,0.11568,0.11568,0,0.231999993,0.027849156,0.008,0.085000001
+AMSUMMIT,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.59851997,-141.248203,32603,Tundra,Shrub,TRUE,0.25,0.17152,0.17152,0,0.532999992,0.214385204,0.1655,0.460000008
+AMSUMMIT,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.59853632,-141.2477883,32603,Tundra,Shrub,TRUE,0.25,0.22856,0.22856,0,0.646000028,0.212563775,0.155000001,0.55400002
+AUFEIS,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.78090525,-140.705549,32603,Tundra,Shrub,TRUE,0.25,0.10472,0.10472,0,0.203999996,0.055864513,0.048999999,0.114
+AUFEIS,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.78106529,-140.7053332,32603,Tundra,Shrub,TRUE,0.25,0.08374,0.08374,0,0.111000001,0.037840571,0.035999998,0.071999997
+AUFEIS,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.78122452,-140.7051081,32603,Tundra,Shrub,TRUE,0.25,0.089776,0.089776,0,0.162,0.041587885,0.028000001,0.097999997
+AUFEIS,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.78138149,-140.704875,32603,Tundra,Shrub,TRUE,0.25,0.061724,0.061724,0,0.136000007,0.027896259,0.025,0.061000001
+AUFEIS,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.78154278,-140.7046668,32603,Tundra,Shrub,TRUE,0.25,0.036332,0.036332,0,0.150999993,0.035979179,0.028000001,0.071000002
+BABBAGE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.69625695,-139.084072,32603,Tundra,Shrub,TRUE,0.25,0.266876,0.266876,0,0.140000001,0.059471607,0.061999999,0.093000002
+BABBAGE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.69641883,-139.0838571,32603,Tundra,Shrub,TRUE,0.25,0.408724,0.408724,0,0.184,0.057526276,0.052000001,0.108999997
+BABBAGE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.69658212,-139.0836523,32603,Tundra,Shrub,TRUE,0.25,0.404916,0.404916,0,0.194000006,0.042757487,0.037,0.083999999
+BABBAGE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.69674497,-139.0834493,32603,Tundra,Shrub,TRUE,0.25,0.361708,0.361708,0,0.170000002,0.057018018,0.055,0.104000002
+BABBAGE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.69691055,-139.0832604,32603,Tundra,Shrub,TRUE,0.25,0.380812,0.380812,0,0.158000007,0.064385042,0.063000001,0.104000002
+BROWNSCREEK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.13656298,-140.8157344,32603,Tundra,Shrub,TRUE,0.25,0.168772,0.168772,0,0.045000002,0.013118457,0.015,0.023
+BROWNSCREEK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.13640611,-140.8159319,32603,Tundra,Shrub,TRUE,0.25,0.132492,0.132492,0,0.077,0.016125433,0.014,0.035999998
+BROWNSCREEK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.13625013,-140.816133,32603,Tundra,Shrub,TRUE,0.25,1.27608,1.27608,0,0.247999996,0.1091809,0.111000001,0.174999997
+BROWNSCREEK,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.13609176,-140.8163237,32603,Tundra,Shrub,TRUE,0.25,0.452032,0.452032,0,0.180999994,0.069227732,0.074000001,0.106199999
+BROWNSCREEK,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.13593409,-140.816519,32603,Tundra,Shrub,TRUE,0.25,0.288452,0.288452,0,0.167999998,0.053181819,0.048,0.114500001
+BUTLER,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92073836,-140.6493898,32603,Tundra,Shrub,TRUE,0.25,0.096516,0.096516,0,0.094999999,0.025384946,0.015,0.068000004
+BUTLER,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92089432,-140.6495917,32603,Tundra,Shrub,TRUE,0.25,0.143764,0.143764,0,0.149000004,0.032452654,0.026000001,0.078000002
+BUTLER,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92104963,-140.6497955,32603,Tundra,Shrub,TRUE,0.25,0.071692,0.071692,0,0.082000002,0.015684946,0.011,0.037999999
+BUTLER,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92120236,-140.6500043,32603,Tundra,Shrub,TRUE,0.25,0.057664,0.057664,0,0.041000001,0.004698231,0.003,0.013
+BUTLER,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92135832,-140.6502066,32603,Tundra,Shrub,TRUE,0.25,0.141288,0.141288,0,0.182999998,0.026718546,0.014370223,0.070100001
+CALF,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.47954258,-140.7765962,32603,Tundra,Shrub,TRUE,0.25,0.234512,0.234512,0,0.246000007,0.085522461,0.083999999,0.128999993
+CALF,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.47936478,-140.7766419,32603,Tundra,Shrub,TRUE,0.25,0.27516,0.27516,0,0.07,0.031329637,0.032000002,0.057
+CALF,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.47918712,-140.7767025,32603,Tundra,Shrub,TRUE,0.25,0.162208,0.162208,0,0.082000002,0.02378125,0.022,0.041999999
+CALF,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.47900941,-140.7767631,32603,Tundra,Shrub,TRUE,0.25,0.15222,0.15222,0,0.246000007,0.06971875,0.068000004,0.119999997
+CALF,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.47883222,-140.7768309,32603,Tundra,Shrub,TRUE,0.25,0.103288,0.103288,0,0.143999994,0.044950758,0.041000001,0.082999997
+COALCREEK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.56010523,-139.907204,32603,Tundra,Shrub,TRUE,0.25,0.373004,0.373004,0,0.078000002,0.02636821,0.021,0.057499999
+COALCREEK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.56013078,-139.9067934,32603,Tundra,Shrub,TRUE,0.25,0.39322,0.39322,0,0.171000004,0.055928775,0.052000001,0.089000002
+COALCREEK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.56015922,-139.906385,32603,Tundra,Shrub,TRUE,0.25,0.138432,0.138432,0,0.097000003,0.024179847,0.018999999,0.050000001
+COALCREEK,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.56018827,-139.9059731,32603,Tundra,Shrub,TRUE,0.25,0.06956,0.06956,0,0.050000001,0.008059172,0.004,0.026000001
+COALCREEK,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.56021346,-139.9055612,32603,Tundra,Shrub,TRUE,0.25,0.08378,0.08378,0,0.059999999,0.004681756,0.002,0.013
+EXCELSIOR,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),62.76517011,-138.9779886,32603,Tundra,Shrub,TRUE,0.25,0.162016,0.162016,0,0.079999998,0.019146847,0.013,0.055
+EXCELSIOR,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),62.76522186,-138.9783618,32603,Tundra,Shrub,TRUE,0.25,0.201716,0.201716,0,0.162,0.03741506,0.035,0.064200002
+EXCELSIOR,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),62.76528022,-138.9787312,32603,Tundra,Shrub,TRUE,0.25,0.27164,0.27164,0,0.046,0.014787978,0.014,0.028000001
+EXCELSIOR,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),62.76533404,-138.9791028,32603,Tundra,Shrub,TRUE,0.25,0.693532,0.693532,0,0.312999994,0.154221591,0.169,0.225999996
+EXCELSIOR,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),62.76538275,-138.9794786,32603,Tundra,Shrub,TRUE,0.25,0.257256,0.257256,0,0.246000007,0.034524621,0.021,0.068000004
+FIRTH,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.16172269,-140.1467765,32603,Tundra,Shrub,TRUE,0.25,0.03592,0.03592,0,0.086999997,0.016289993,0.011,0.039000001
+FIRTH,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.16155704,-140.1469977,32603,Tundra,Shrub,TRUE,0.25,1.422004,1.422004,0.071000002,0.546000004,0.372832724,0.395999998,0.488999993
+FIRTH,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.16139179,-140.1471936,32603,Tundra,Shrub,TRUE,0.25,0.170972,0.170972,0,0.206,0.064013879,0.057,0.114
+FIRTH,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.1612259,-140.1473788,32603,Tundra,Shrub,TRUE,0.25,0.034984,0.034984,0,0.217999995,0.012790204,0.003,0.031600001
+FIRTH,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.16105859,-140.1475553,32603,Tundra,Shrub,TRUE,0.25,0.067364,0.067364,0,0.097999997,0.018190691,0.015,0.045000002
+GRANITE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.78830447,-142.3299789,32603,Tundra,Shrub,TRUE,0.25,0.4302,0.4302,0,0.275999993,0.171552101,0.178000003,0.231999993
+GRANITE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.78832189,-142.3295624,32603,Tundra,Shrub,TRUE,0.25,0.98256,0.98256,0.002,0.702000022,0.502650139,0.531000018,0.663199985
+GRANITE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.78833832,-142.3291445,32603,Tundra,Shrub,TRUE,0.25,0.21352,0.21352,0,0.082999997,0.047717469,0.048999999,0.061999999
+GRANITE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.78835981,-142.3287272,32603,Tundra,Shrub,TRUE,0.25,0.29732,0.29732,0,0.328000009,0.124729796,0.120999999,0.171000004
+GRANITE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.78837771,-142.3283088,32603,Tundra,Shrub,TRUE,0.25,0.06,0.06,0,0.248999998,0.028890374,0.021,0.067000002
+KINGSOLOMON,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.87000472,-138.947898,32603,Tundra,Shrub,TRUE,0.25,0.505856,0.505856,0,0.256999999,0.111524414,0.105999999,0.200700004
+KINGSOLOMON,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.87018053,-138.9478268,32603,Tundra,Shrub,TRUE,0.25,0.716792,0.716792,0.032000002,0.300999999,0.133804301,0.137999997,0.207200003
+KINGSOLOMON,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.87035663,-138.9477715,32603,Tundra,Shrub,TRUE,0.25,0.410716,0.410716,0,0.093999997,0.043041936,0.039000001,0.075999998
+KINGSOLOMON,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.87053347,-138.9477194,32603,Tundra,Shrub,TRUE,0.25,0.312112,0.312112,0,0.11833933,0.036282885,0.022,0.083510667
+KINGSOLOMON,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.87071026,-138.9476664,32603,Tundra,Shrub,TRUE,0.25,1.050304,1.050304,0,0.156000003,0.072825807,0.075999998,0.112999998
+MATSONCREEK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.77748165,-140.7459933,32603,Tundra,Shrub,TRUE,0.25,0.14348,0.14348,0,0.125,0.037294974,0.030999999,0.086999997
+MATSONCREEK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.77756528,-140.7456372,32603,Tundra,Shrub,TRUE,0.25,0.20772,0.20772,0,0.116999999,0.014397783,0.007,0.032000002
+MATSONCREEK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.77765873,-140.7452955,32603,Tundra,Shrub,TRUE,0.25,0.21736,0.21736,0,0.191,0.085491954,0.086999997,0.149000004
+MATSONCREEK,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.77775478,-140.7449565,32603,Tundra,Shrub,TRUE,0.25,0.08992,0.08992,0,0.064000003,0.020631773,0.017999999,0.043000001
+MATSONCREEK,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.77783905,-140.7446024,32603,Tundra,Shrub,TRUE,0.25,0.09324,0.09324,0,0.144999996,0.033991072,0.028999999,0.071699999
+MOLLYCREEK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.21788179,-143.5665427,32603,Tundra,Shrub,TRUE,0.25,0.96004,0.96004,0,0.523999989,0.249238866,0.275000006,0.356999993
+MOLLYCREEK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.21802382,-143.5667955,32603,Tundra,Shrub,TRUE,0.25,0.18956,0.18956,0,0.430000007,0.027560054,0.022,0.057
+MOLLYCREEK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.21816429,-143.5670464,32603,Tundra,Shrub,TRUE,0.25,0.37496,0.37496,0,0.171000004,0.056089744,0.057,0.100900003
+MOLLYCREEK,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.2183105,-143.5672799,32603,Tundra,Shrub,TRUE,0.25,0.687,0.687,0,0.56099999,0.187021248,0.136000007,0.429700002
+MOLLYCREEK,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.21845916,-143.5675072,32603,Tundra,Shrub,TRUE,0.25,0.51308,0.51308,0,0.508000016,0.133924515,0.1195,0.252999991
+MOSQUITOCREEK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.95353932,-143.697468,32603,Tundra,Shrub,TRUE,0.25,0.08016,0.08016,0,0.071000002,0.019792386,0.017999999,0.039000001
+MOSQUITOCREEK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.95366882,-143.6977504,32603,Tundra,Shrub,TRUE,0.25,0.8872,0.8872,0,0.289999992,0.103974449,0.105999999,0.171800005
+MOSQUITOCREEK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.95379867,-143.6980287,32603,Tundra,Shrub,TRUE,0.25,0.14164,0.14164,0,0.32100001,0.082048781,0.071999997,0.144999996
+PAGE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.44389369,-140.9938408,32603,Tundra,Shrub,TRUE,0.25,0.259468,0.259468,0,0.108000003,0.028475069,0.025,0.057
+PAGE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.4440228,-140.994194,32603,Tundra,Shrub,TRUE,0.25,0.216296,0.216296,0,0.108000003,0.030654521,0.028000001,0.064000003
+PAGE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.44415299,-140.9945272,32603,Tundra,Shrub,TRUE,0.25,0.191524,0.191524,0,0.321999997,0.03599169,0.028000001,0.066
+PAGE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.4442861,-140.9948661,32603,Tundra,Shrub,TRUE,0.25,0.179788,0.179788,0,0.312000006,0.05564305,0.039000001,0.123899999
+PAGE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.44442195,-140.995196,32603,Tundra,Shrub,TRUE,0.25,0.281476,0.281476,0,0.144999996,0.03475831,0.028000001,0.074000001
+SCHAR,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.60850471,-143.8643067,32603,Tundra,Shrub,TRUE,0.25,0.49208,0.49208,0,0.158999994,0.070006055,0.071999997,0.125
+SCHAR,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.60844261,-143.8639146,32603,Tundra,Shrub,TRUE,0.25,1.0398,1.0398,0.050000001,0.330000013,0.214520762,0.216000006,0.303000003
+SCHAR,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.60837736,-143.863525,32603,Tundra,Shrub,TRUE,0.25,0.2744,0.2744,0,0.246999994,0.090396194,0.082000002,0.153999999
+SCHAR,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.60831242,-143.8631356,32603,Tundra,Shrub,TRUE,0.25,0.335,0.335,0,0.120999999,0.047065062,0.050000001,0.089000002
+SCHAR,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.60824753,-143.8627459,32603,Tundra,Shrub,TRUE,0.25,0.11232,0.11232,0,0.064999998,0.01558467,0.01,0.037999999
+SEELA,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.71055997,-138.8812135,32603,Tundra,Shrub,TRUE,0.25,0.114284,0.114284,0,0.075000003,0.01885108,0.017000001,0.043000001
+SEELA,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.7106504,-138.8808524,32603,Tundra,Shrub,TRUE,0.25,0.071572,0.071572,0,0.061000001,0.023305556,0.022,0.043000001
+SEELA,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.71074348,-138.8804959,32603,Tundra,Shrub,TRUE,0.25,0.339736,0.339736,0,0.123999998,0.033066358,0.024,0.079000004
+SEELA,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.7108373,-138.8801351,32603,Tundra,Shrub,TRUE,0.25,0.095828,0.095828,0,0.085000001,0.025576191,0.026000001,0.0481
+SEELA,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.71092995,-138.879783,32603,Tundra,Shrub,TRUE,0.25,0.102888,0.102888,0,0.063000001,0.017327161,0.014,0.041000001
+SHEEPCREEK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.15897957,-140.1504801,32603,Tundra,Shrub,TRUE,0.25,0.182444,0.182444,0,0.451000005,0.085833008,0.035,0.325499994
+SHEEPCREEK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.15898153,-140.1509812,32603,Tundra,Shrub,TRUE,0.25,0.17266,0.17266,0,0.528999984,0.042349636,0.027000001,0.085000001
+SHEEPCREEK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.1589909,-140.1514802,32603,Tundra,Shrub,TRUE,0.25,0.136108,0.136108,0,0.180999994,0.030066845,0.023,0.059999999
+SHEEPCREEK,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.15901953,-140.1519786,32603,Tundra,Shrub,TRUE,0.25,0.11888,0.11888,0,0.077,0.022022041,0.02,0.046
+SHEEPCREEK,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.15905987,-140.152469,32603,Tundra,Shrub,TRUE,0.25,0.117784,0.117784,0,0.082999997,0.015201923,0.01,0.039000001
+SIXTYMILE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92758569,-140.7119983,32603,Tundra,Shrub,TRUE,0.25,0.75608,0.75608,0,0.184,0.084663077,0.089000002,0.149000004
+SIXTYMILE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92763208,-140.7123869,32603,Tundra,Shrub,TRUE,0.25,0.25508,0.25508,0,0.093000002,0.0224032,0.018999999,0.0506
+SIXTYMILE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.92768087,-140.7127719,32603,Tundra,Shrub,TRUE,0.25,0.34772,0.34772,0,0.135000005,0.060856923,0.061000001,0.107100001
+SPRINGRIVER,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.03417394,-139.6454575,32603,Tundra,Shrub,TRUE,0.25,0.180188,0.180188,0,0.078000002,0.022160915,0.018999999,0.046
+SPRINGRIVER,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.03403087,-139.6451602,32603,Tundra,Shrub,TRUE,0.25,0.09126,0.09126,0,0.071000002,0.013431746,0.007,0.035999998
+SPRINGRIVER,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.03388439,-139.6448702,32603,Tundra,Shrub,TRUE,0.25,0.11114,0.11114,0,0.123999998,0.027593469,0.023,0.055
+SPRINGRIVER,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.03373708,-139.6445857,32603,Tundra,Shrub,TRUE,0.25,0.086376,0.086376,0,0.061999999,0.01627102,0.014,0.035999998
+SPRINGRIVER,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),69.03359046,-139.6442981,32603,Tundra,Shrub,TRUE,0.25,0.137368,0.137368,0,0.083999999,0.019443507,0.016000001,0.043000001
+SWEDE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.19581541,-140.3539298,32603,Tundra,Shrub,TRUE,0.25,0.311652,0.311652,0,0.234999999,0.09239664,0.090000004,0.184200001
+SWEDE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.19564869,-140.354084,32603,Tundra,Shrub,TRUE,0.25,0.402724,0.402724,0,0.191,0.072343093,0.057999998,0.133000001
+SWEDE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.19548174,-140.3542365,32603,Tundra,Shrub,TRUE,0.25,0.310092,0.310092,0,0.347000003,0.082150475,0.055,0.185200003
+SWEDE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.19531377,-140.3543861,32603,Tundra,Shrub,TRUE,0.25,0.094988,0.094988,0,0.388999999,0.113437546,0.064999998,0.289999992
+SWEDE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.19514642,-140.3545378,32603,Tundra,Shrub,TRUE,0.25,0.196904,0.196904,0,0.915000021,0.079880935,0.057999998,0.169799998
+THISTLE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.02896095,-139.0865185,32603,Tundra,Shrub,TRUE,0.25,0.359584,0.359584,0,0.097999997,0.054687277,0.063000001,0.079999998
+THISTLE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.0287831,-139.0865532,32603,Tundra,Shrub,TRUE,0.25,0.346016,0.346016,0,0.194000006,0.065191439,0.057999998,0.123999998
+THISTLE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.0286082,-139.086619,32603,Tundra,Shrub,TRUE,0.25,0.21996,0.21996,0,0.172000006,0.072390625,0.068000004,0.125700001
+THISTLE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.02843267,-139.0866821,32603,Tundra,Shrub,TRUE,0.25,0.337892,0.337892,0,0.077,0.031817898,0.033,0.052000001
+THISTLE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),63.02825785,-139.0867428,32603,Tundra,Shrub,TRUE,0.25,0.301464,0.301464,0,0.067000002,0.015565591,0.012,0.035
+TOPOFTHEWORLD,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.1033339,-141.2631044,32603,Tundra,Shrub,TRUE,0.25,0.39724,0.39724,0,0.907000005,0.371489408,0.216000006,0.849199986
+TOPOFTHEWORLD,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.10345028,-141.2627978,32603,Tundra,Shrub,TRUE,0.25,0.71232,0.71232,0.001,0.720000029,0.353206721,0.365999997,0.609000027
+TOPOFTHEWORLD,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.10369021,-141.262193,32603,Tundra,Shrub,TRUE,0.25,1.40212,1.40212,0,0.559000015,0.207471878,0.200000003,0.331999987
+TOPOFTHEWORLD,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.10381356,-141.2618932,32603,Tundra,Shrub,TRUE,0.25,0.379,0.379,0,0.68900001,0.16330441,0.0425,0.504000008
+TOWYK,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.06493265,-140.9533253,32603,Tundra,Shrub,TRUE,0.25,0.13724,0.13724,0,0.061999999,0.01138,0.007,0.028000001
+TOWYK,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.06510858,-140.9532555,32603,Tundra,Shrub,TRUE,0.25,0.19656,0.19656,0,0.068999998,0.010928333,0.007,0.028000001
+TOWYK,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.0652859,-140.9531911,32603,Tundra,Shrub,TRUE,0.25,0.22732,0.22732,0,0.052000001,0.013668403,0.01,0.033
+TOWYK,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.06546252,-140.9531355,32603,Tundra,Shrub,TRUE,0.25,0.26564,0.26564,0,0.078000002,0.020903333,0.021,0.039999999
+TOWYK,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),64.06563931,-140.9530726,32603,Tundra,Shrub,TRUE,0.25,0.09244,0.09244,0,0.027000001,0.004197464,0.002,0.013
+BLOWRIVER,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.77318092,-137.4560668,32603,Tundra,Shrub,TRUE,0.25,0.166744,0.166744,0,0.202999994,0.065309935,0.059,0.131999999
+BLOWRIVER,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.77331632,-137.4563875,32603,Tundra,Shrub,TRUE,0.25,0.201656,0.201656,0,0.287999988,0.074627603,0.066,0.147
+BLOWRIVER,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.77358663,-137.457032,32603,Tundra,Shrub,TRUE,0.25,0.654816,0.654816,0,0.564999998,0.167847074,0.125,0.382099998
+BLOWRIVER,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.77371703,-137.4573683,32603,Tundra,Shrub,TRUE,0.25,0.30766,0.30766,0,0.742999971,0.102780488,0.064000003,0.231999993
+DEW,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.85715007,-137.3297591,32603,Tundra,Shrub,TRUE,0.25,0.384324,0.384324,0,0.108159781,0.02797621,0.026000001,0.04807669
+DEW,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.85718908,-137.3302427,32603,Tundra,Shrub,TRUE,0.25,0.092464,0.092464,0,0.043000001,0.012500459,0.011,0.028999999
+DEW,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.85722069,-137.3307281,32603,Tundra,Shrub,TRUE,0.25,0.256716,0.256716,0,0.051225334,0.01512169,0.013,0.031481932
+DEW,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.85724401,-137.3312187,32603,Tundra,Shrub,TRUE,0.25,0.140228,0.140228,0,0.090000004,0.010452654,0.002,0.034000002
+DEW,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),68.85725823,-137.331713,32603,Tundra,Shrub,TRUE,0.25,0.0697,0.0697,0,0.052999999,0.014398851,0.0105,0.037
+LOWERQUARRY,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.0017468,-136.219226,32603,Tundra,Shrub,TRUE,0.25,0.245744,0.245744,0,0.092,0.038468806,0.039000001,0.066
+LOWERQUARRY,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.0015735,-136.2193428,32603,Tundra,Shrub,TRUE,0.25,0.085792,0.085792,0,0.082000002,0.017156107,0.015,0.035999998
+LOWERQUARRY,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.00140004,-136.2194575,32603,Tundra,Shrub,TRUE,0.25,0.19006,0.19006,0,0.083999999,0.033252228,0.030999999,0.063000001
+LOWERQUARRY,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.00122699,-136.2195772,32603,Tundra,Shrub,TRUE,0.25,0.205028,0.205028,0,0.493000001,0.064404844,0.046999998,0.104000002
+LOWERQUARRY,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.00105399,-136.219693,32603,Tundra,Shrub,TRUE,0.25,0.232076,0.232076,0,0.116999999,0.045270945,0.043000001,0.082999997
+OGILVIE,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.78616221,-137.7822609,32603,Tundra,Shrub,TRUE,0.25,0.423616,0.423616,0,0.125,0.036620199,0.033,0.072999999
+OGILVIE,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.78622577,-137.7826673,32603,Tundra,Shrub,TRUE,0.25,0.417536,0.417536,0,0.216999993,0.08334916,0.083999999,0.133200002
+OGILVIE,50m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.78629154,-137.783072,32603,Tundra,Shrub,TRUE,0.25,0.487956,0.487956,0,0.226999998,0.048174135,0.032000002,0.128100005
+OGILVIE,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.78634779,-137.7834852,32603,Tundra,Shrub,TRUE,0.25,0.594012,0.594012,0,0.115000002,0.031785588,0.027000001,0.064999998
+OGILVIE,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),65.7864041,-137.7838976,32603,Tundra,Shrub,TRUE,0.25,0.25376,0.25376,0,0.277999997,0.063679784,0.052000001,0.138499998
+UPPERQUARRY,10m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.01070738,-136.2096794,32603,Tundra,Shrub,TRUE,0.25,0.251568,0.251568,0,0.208000004,0.117914428,0.123999998,0.182999998
+UPPERQUARRY,30m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.01083736,-136.2093677,32603,Tundra,Shrub,TRUE,0.25,0.140172,0.140172,0,0.115000002,0.034869093,0.030999999,0.067000002
+UPPERQUARRY,70m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.01109907,-136.2087512,32603,Tundra,Shrub,TRUE,0.25,0.11202,0.11202,0,0.172999993,0.048636316,0.037,0.112000003
+UPPERQUARRY,90m,katieorndahl@gmail.com,Kathleen Orndahl,NAU,Alaska (US),67.01122988,-136.2084426,32603,Tundra,Shrub,TRUE,0.25,0.252272,0.252272,0,0.116999999,0.041776921,0.041999999,0.068000004
+Noatak,J_8,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.92979112,-161.9346089,32604,Tundra,Thaw Slump,TRUE,0.25,0.062333333,0.249333333,0.093999997,0.27700001,0.191183771,0.185000002,0.240999997
+Noatak,7_A3_1,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),68.08785641,-159.1817961,32604,Tundra,Thaw Slump,TRUE,0.25,0.671833333,2.687333333,0.938000023,1.409000039,1.197229027,1.197000027,1.350999951
+Noatak,7_A3_3,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),68.08784211,-159.1818631,32604,Tundra,Thaw Slump,TRUE,0.25,0.2875,1.15,0.721000016,0.896000028,0.785764988,0.77700001,0.842000008
+Noatak,8_A4_1,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),68.035469,-159.289333,32604,Tundra,Thaw Slump,TRUE,0.25,0.545833333,2.183333333,0,1.5,0.841395665,0.796000004,1.38499999
+Noatak,8_A4_2,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),68.035494,-159.289355,32604,Tundra,Thaw Slump,TRUE,0.25,0.492333333,1.969333333,0.536000013,2.09800005,1.571946863,1.692000031,1.996999979
+Noatak,8_A4_3,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),68.035505,-159.289309,32604,Tundra,Thaw Slump,TRUE,0.25,0.678083333,2.712333333,0.823000014,1.539999962,1.283180721,1.235999942,1.453999996
+Noatak,9_A3_1,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),68.02732397,-159.2282612,32604,Tundra,Thaw Slump,TRUE,0.25,0.074333333,0.297333333,0,0.307999998,0.19507,0.201000005,0.266100001
+Noatak,30_A2_2,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.97551267,-161.7991007,32604,Tundra,Thaw Slump,TRUE,0.25,0.241491667,0.965966667,0.340000004,0.648999989,0.453530611,0.426999986,0.546999991
+Noatak,30_A4_3,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.97540229,-161.798721,32604,Tundra,Thaw Slump,TRUE,0.25,0.176783333,0.707133333,0.395000011,0.819000006,0.609403628,0.603999972,0.748000026
+Noatak,30_A8_3,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.97545424,-161.7977273,32604,Tundra,Thaw Slump,TRUE,0.25,0.140333333,0.561333333,0.030999999,0.75999999,0.311938776,0.31099999,0.522000015
+Noatak,RS1_B8_3,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.98608142,-161.8696846,32604,Tundra,Thaw Slump,TRUE,0.25,0.069916667,0.279666667,0,0.134000003,0.052606965,0.046999998,0.094999999
+Noatak,RS1_D1_2,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.98649616,-161.867684,32604,Tundra,Thaw Slump,TRUE,0.25,0.379,1.516,0.675000012,1.338000059,1.140895477,1.133000016,1.203699982
+Noatak,RS1_D4_1,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.98647681,-161.8676227,32604,Tundra,Thaw Slump,TRUE,0.25,0.384916667,1.539666667,0.981999993,3.211999893,1.151788915,1.154000044,1.207000017
+Noatak,RS1_D4_2,alonzo@american.edu,Mark Lara,North Slope,Alaska (US),67.98649616,-161.867684,32604,Tundra,Thaw Slump,TRUE,0.25,0.4295,1.718,0.675000012,1.338000059,1.140895477,1.133000016,1.203699982
+shipSA_16plotcent,shipSA_16plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5409141,61.23925295,32606,Shrub Tundra,Shrub,TRUE,53.29,1328.033525,7.89839,0,5.929999828,2.474426238,1.909999967,5.710000038
+shipSA_16plotSE,shipSA_16plotSE,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5405151,61.23901011,32606,Shrub Tundra,Shrub,TRUE,53.29,62.70018699,0.372905,0,1.639999986,0.136622222,0,0.415999991
+shipSA_16plotSW,shipSA_16plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5415405,61.2391814,32606,Shrub Tundra,Shrub,TRUE,53.29,925.540255,5.50459,0.730000019,5.949999809,4.740833317,5.199999809,5.504000092
+shipSA_1plotcent,shipSA_1plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5307623,61.23712137,32606,Shrub Tundra,Shrub,TRUE,53.29,980.6291271,5.83223,0.360000014,5.989999771,4.670823542,5.170000076,5.761999989
+shipSA_1plotSW,shipSA_1plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5312851,61.23693125,32606,Shrub Tundra,Shrub,TRUE,53.29,194.3302287,1.15577,0,5.769999981,0.469615385,0.349999994,1.043999994
+shipSA_2plotcent,shipSA_2plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5328915,61.23709066,32606,Shrub Tundra,Shrub,TRUE,53.29,890.3227748,5.29514,1.399999976,5.710000038,4.262333332,4.230000019,5.070000172
+shipSA_4plotcent,shipSA_4plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5247822,61.23707409,32606,Shrub Tundra,Shrub,TRUE,53.29,532.3199987,3.16594,0,6,3.671951218,4.015000105,5.698999882
+shipSA_17plotcent,shipSA_17plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5350786,61.23688862,32606,Shrub Tundra,Shrub,TRUE,53.29,1036.830035,6.16648,0.379999995,5.989999771,4.082092984,4.820000172,5.927999878
+shipSA_17plotSE,shipSA_17plotSE,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5345546,61.23670185,32606,Shrub Tundra,Shrub,TRUE,53.29,1538.712036,9.15139,0.479999989,6,3.60614815,3.900000095,5.587999916
+shipSA_18plotcent,shipSA_18plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5313457,61.23754908,32606,Shrub Tundra,Shrub,TRUE,53.29,662.3509788,3.93929,0,5.929999828,1.912561569,0.920000017,4.743999958
+shipSA_18plotSW,shipSA_18plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5320315,61.23749668,32606,Shrub Tundra,Shrub,TRUE,53.29,367.2812363,2.18438,0,5.909999847,1.419642855,0.829999983,3.744000006
+shipSA_19plotcent,shipSA_19plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5263837,61.23733601,32606,Shrub Tundra,Shrub,TRUE,53.29,403.4364575,2.39941,0,5.980000019,2.392512078,1.309999943,5.369999981
+shipSA_20plotcent,shipSA_20plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5271782,61.23801068,32606,Shrub Tundra,Shrub,TRUE,53.29,603.7625995,3.59084,0,6,3.054962396,3.579999924,5.710000038
+shipSA_21plotcent,shipSA_21plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5342741,61.23689854,32606,Shrub Tundra,Shrub,TRUE,53.29,903.6490439,5.37439,0,6,3.802850682,4.760000229,5.730000019
+shipSA_4plotSW,shipSA_4plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5254576,61.23697911,32606,Shrub Tundra,Shrub,TRUE,53.29,606.2771612,3.60579,0,5.599999905,2.093673461,0.805000007,5.13499999
+shipUM_3plotcent,shipUM_3plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5307644,61.23613219,32606,Shrub Tundra,Shrub,TRUE,53.29,416.8081158,2.47894,0.300000012,5.929999828,4.757380981,5.164999962,5.837000084
+shipUM_4plotcent,shipUM_4plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5299909,61.23543668,32606,Shrub Tundra,Shrub,TRUE,53.29,1060.246323,6.30574,2.910000086,5.519999981,4.372105264,4.460000038,4.960000038
+shipUM_6plotcent,shipUM_6plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.536541,61.23548903,32606,Shrub Tundra,Shrub,TRUE,53.29,1831.821873,10.8946,0.419999987,6,4.020897428,4.605000019,5.821999931
+shipUM_6plotN,shipUM_6plotN,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5363647,61.2357938,32606,Shrub Tundra,Shrub,TRUE,53.29,198.9907917,1.18348,0,5.909999847,1.882666664,0.829999983,5.253000021
+shipUM_6plotSW,shipUM_6plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5372311,61.23546643,32606,Shrub Tundra,Shrub,TRUE,53.29,207.9129468,1.23655,0.230000004,5.96999979,2.225531908,1.840000033,4.732999945
+shipUM_15plotcent,shipUM_15plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5385842,61.23568026,32606,Shrub Tundra,Shrub,TRUE,53.29,770.9809512,4.58536,0,5.989999771,3.990725798,4.75999999,5.801000023
+shipUM_16plotcent,shipUM_16plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.5376617,61.23493994,32606,Shrub Tundra,Shrub,TRUE,53.29,571.4137166,3.39845,1.519999981,5.690000057,3.505244446,3.49000001,4.596000004
+peteSA_2plotcent,peteSA_2plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3680831,61.39926803,32606,Shrub Tundra,Shrub,TRUE,53.29,245.6581516,1.46104,0,3.779999971,1.189866667,0.829999983,2.840000057
+peteSA_3plotcent,peteSA_3plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3668561,61.39856535,32606,Shrub Tundra,Shrub,TRUE,53.29,252.700286,1.50292,0,5.730000019,2.58862245,2.284999967,4.755000114
+peteSA_3plotSE,peteSA_3plotSE,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.36641,61.39832141,32606,Shrub Tundra,Shrub,TRUE,53.29,122.6398028,0.729392,0,5.019999981,1.230357143,0.949999988,2.165000081
+peteSA_3plotSW,peteSA_3plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.367484,61.39846269,32606,Shrub Tundra,Shrub,TRUE,53.29,373.9920296,2.22429,0,6,2.264076087,2.084999919,4.900000095
+peteSA_4plotcent,peteSA_4plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3659241,61.39851277,32606,Shrub Tundra,Shrub,TRUE,53.29,525.3346008,3.12439,0,5.360000134,2.263466668,1.980000019,4.83200016
+peteSA_5plotcent,peteSA_5plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3635949,61.39845094,32606,Shrub Tundra,Shrub,TRUE,53.29,461.1588109,2.74271,0,4.739999771,2.141857144,2.420000076,3.82299993
+peteSA_1plotcent,peteSA_1plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3692601,61.3979379,32606,Shrub Tundra,Shrub,TRUE,53.29,236.7986336,1.40834,0,5.670000076,2.618714285,2.685000062,4.183999825
+peteUM_4plotcent,peteUM_4plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3731343,61.39694209,32606,Shrub Tundra,Shrub,TRUE,53.29,261.9637678,1.55801,0.200000003,5.429999828,3.221785711,3.514999986,4.684999943
+peteUM_3plotcent,peteUM_3plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3734429,61.39598307,32606,Shrub Tundra,Shrub,TRUE,53.29,548.9687572,3.26496,0,5.980000019,3.32351563,3.485000014,5.53000021
+peteUM_3plotN,peteUM_3plotN,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.373148,61.39624742,32606,Shrub Tundra,Shrub,TRUE,53.29,535.4291589,3.18443,0.620000005,5.929999828,4.09483049,4.325000048,5.525999975
+peteUM_3plotSE,peteUM_3plotSE,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3729786,61.39576325,32606,Shrub Tundra,Shrub,TRUE,53.29,188.5294889,1.12127,0,5.980000019,2.762637372,2.869999886,5.510000229
+peteUM_2plotcent,peteUM_2plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.373513,61.39402698,32606,Shrub Tundra,Shrub,TRUE,53.29,268.5701659,1.5973,0,5.96999979,3.21835938,3.660000086,5.610000134
+peteUM_2plotSW,peteUM_2plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3741126,61.39392494,32606,Shrub Tundra,Shrub,TRUE,53.29,656.155353,3.90244,0,5.920000076,2.635818182,2.190000057,5.756000137
+peteUM_1plotcent,peteUM_1plotcent,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3733424,61.39253166,32606,Shrub Tundra,Shrub,TRUE,53.29,746.9065195,4.44218,0,5.989999771,3.989305545,4.360000134,5.557000017
+peteUM_1plotSE,peteUM_1plotSE,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.372879,61.39231149,32606,Shrub Tundra,Shrub,TRUE,53.29,321.6614592,1.91306,0,5.96999979,2.588680557,2.764999986,4.627000046
+peteUM_1plotSW,peteUM_1plotSW,alonzo@american.edu,Mike Alonzo,Peters Creek,Alaska (US),-149.3739423,61.39242995,32606,Shrub Tundra,Shrub,TRUE,53.29,641.630809,3.81606,0,5.960000038,2.658913032,2.804999948,5.220000029

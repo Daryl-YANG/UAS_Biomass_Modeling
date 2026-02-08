@@ -36,7 +36,7 @@ if (! file.exists(out.dir)) dir.create(out.dir,recursive=TRUE)
 # define how many models you want to build?
 nmodel <- 20
 
-# define the output resolution of biomass map: recommended to be at least 10 times the
+# define the output resolution of biomass map: recommend to be at least 10 times the
 # chm image resolution
 reso <- 1 # m
 #*****************************************************************************************#
@@ -134,15 +134,10 @@ ggplot(data = plt.data, aes(x = truth, y = predicted)) +
 
 png.name <- paste0(out.dir, "/",'model_eva.pdf')
 ggsave(png.name, plot = last_plot(), width = 12, height = 12, units = 'cm')
-
-err <- abs(plt.data$predicted-plt.data$truth)
-eva.tab <- cbind(plt.data, err)
-csv.name <- paste0(out.dir, "/",'model_eva.csv')
-write.csv(eva.tab, csv.name, row.names = FALSE)
 #*****************************************************************************************#
 
 #************************************** apply model **************************************#
-print('Applying Model to: ', basename(chm.dir))
+print(paste0('Applying Model to: ', basename(chm.dir)))
 # calculate window based height stats for applying biomass model
 window.size <- round(reso/xres(chm.rst))
 grid.min <- aggregate(chm.rst, window.size, min, na.rm = TRUE)
@@ -185,7 +180,7 @@ biomass.pred.rst <- terra::rast(pred.mean, type = 'xyz')
 terra::crs(biomass.pred.rst) <- terra::crs(chm.rst)
 biomass.pred.rst[biomass.pred.rst == 0] <- NA
 basename <- basename(chm.dir)
-outname <- paste0(chm.path, '/', 'AGB_', reso, 'm_', basename)
+outname <- paste0(out.dir, '/', 'AGB_', reso, 'm_', basename)
 writeRaster(biomass.pred.rst, outname, overwrite=TRUE)
 
 ### calculate biomass prediction uncertainty
@@ -195,7 +190,7 @@ pred.unc <- cbind(coords, pred.unc)
 biomass.unc.rst <- terra::rast(pred.unc, type = 'xyz')
 terra::crs(biomass.unc.rst) <- terra::crs(chm.rst)
 basename <- basename(chm.dir)
-outname <- paste0(chm.path, '/', 'AGB_UNC_', reso, 'm_', basename)
+outname <- paste0(out.dir, '/', 'AGB_UNC_', reso, 'm_', basename)
 writeRaster(biomass.unc.rst, outname, overwrite=TRUE)
 #*****************************************************************************************#
 
